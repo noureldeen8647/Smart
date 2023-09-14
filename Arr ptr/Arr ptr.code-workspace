@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Test_repo",
+			"path": "../../../test_repo/Test_repo/Test_repo"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp"
+		}
+	}
+}
