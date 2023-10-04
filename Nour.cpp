@@ -28,7 +28,7 @@ SSort SS = Sort;
 int main() {
     int *x[] = { 5, 2, 8, 1, 9 };
     int n = sizeof(x) / sizeof(x[0]);
-SS(*x,n);
+SS(*x,n);//6
  
    std::string name ="NOUR";
 
