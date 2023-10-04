@@ -12,6 +12,7 @@ public:
 		size = s > 0 && s < 1000 ? s : 10 ;  
 		top = -1 ;  // initialize stack
 		stackPtr = new T[size] ;
+		
 	}
 
 	~Stack() { delete [] stackPtr ; }
